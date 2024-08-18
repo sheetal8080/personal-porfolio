@@ -5,7 +5,7 @@ export const ProjectList = [
     img: "/note.jpeg",
     title: "Notes App",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
+      "An app where users can note their important notes here.",
     tech_stack: ["ReactJs"],
     github_url: "https://github.com/sheetal8080/React-Notes-App",
     demo_url: "https://react-notes-app-sheetal.vercel.app/",
