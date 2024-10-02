@@ -6,8 +6,11 @@ const Header = ({ toggle }) => {
     <div className="Container" style={{padding: 0}}>
       <Nav>
         <Logo to="/">
-          <img
-            src="/logo.png"
+          <img   style={{
+            borderRadius: '50%', // Makes the image circular
+            objectFit: 'cover' // Ensures the image covers the entire area without distortion
+  }}
+            src="/profile-pic.jpeg"
             alt="logo"
           />
         </Logo>
