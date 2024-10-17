@@ -19,6 +19,23 @@ export const ProjectList = [
     github_url: "https://github.com/sheetal8080/React-Weather-App",
     demo_url: "https://react-weather-app-sheetal.vercel.app/",
   },
+  {
+    img: "/Algo.png",
+    title: "Algo Visualizer",
+    description:"Developed a dynamic and interactive web application to visualize popular algorithms such as sorting (Bubble Sort, Merge Sort, Quick Sort)",
+    tech_stack: ["HTML, CSS, JavaScript,React.js"],
+    github_url: "https://github.com/sheetal8080/algorithm-visualizer",
+    demo_url: " https://algorithm-visualizer-sheetal.vercel.app/",
+  },
+  {
+    img: "/Blog.jpg",
+    title: "Blog Website",
+    description:
+      "A dynamic blog website to share and explore diverse content categories with ease.",
+    tech_stack: ["HTML, CSS, JavaScript, React.js"],
+    github_url: "https://github.com/sheetal8080/Blog-With-Sheetal",
+    demo_url: "",
+  },
   ];
 
 // --------------------------------------- Skills
