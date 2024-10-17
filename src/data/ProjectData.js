@@ -34,7 +34,7 @@ export const ProjectList = [
       "A dynamic blog website to share and explore diverse content categories with ease.",
     tech_stack: ["HTML, CSS, JavaScript, React.js"],
     github_url: "https://github.com/sheetal8080/Blog-With-Sheetal",
-    demo_url: "https://blog-with-sheetal.vercel.app/",
+    demo_url: "https://blog-with-sheetal.vercel.app/", 
   },
   ];
 
