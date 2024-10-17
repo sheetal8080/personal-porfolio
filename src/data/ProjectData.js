@@ -34,7 +34,7 @@ export const ProjectList = [
       "A dynamic blog website to share and explore diverse content categories with ease.",
     tech_stack: ["HTML, CSS, JavaScript, React.js"],
     github_url: "https://github.com/sheetal8080/Blog-With-Sheetal",
-    demo_url: "",
+    demo_url: "https://blog-with-sheetal.vercel.app/",
   },
   ];
 
@@ -64,10 +64,6 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
-    name: "Bootstrap",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
